@@ -1,2 +1,5 @@
 # natureinabottle.github.io
-NIB website
+
+[Click here to visit out online store!]
+
+[1]: https://www.instamojo.com/natureinabottle/
